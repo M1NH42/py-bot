@@ -1,0 +1,6 @@
+Steps are as follows: 
+
+1. open the folder in terminal
+2. type 'rasa init'
+    a. it will ask path
+    b. do you want to train your model -> Y->yes
